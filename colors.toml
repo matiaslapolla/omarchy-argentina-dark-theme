@@ -1,17 +1,18 @@
 mode = "dark"
 
 accent = "#75aadb"
-selection = "#1d3a5f"
-muted = "#40607f"
+selection = "#172a40"
+muted = "#3b5570"
 
-background = "#0c1c30"
-dark_background = "#081524"
-darker_background = "#050e18"
-lighter_background = "#14304d"
+# Noche cerrada: casi negro, con un tinte del navy original
+background = "#080c12"
+dark_background = "#05080d"
+darker_background = "#020408"
+lighter_background = "#101a27"
 
-foreground = "#eaf1f8"
-dark_foreground = "#4a6b8a"
-light_foreground = "#c5d6e8"
+foreground = "#e6edf5"
+dark_foreground = "#4f6d8c"
+light_foreground = "#c0d1e3"
 bright_foreground = "#f4f8fc"
 
 red = "#e57382"
@@ -32,4 +33,4 @@ bright_magenta = "#c7a4e6"
 
 # Celeste a blanco, como las franjas de la bandera argentina
 hyprland_active_border = "rgba(75aadbee) rgba(f4f8fcee) 45deg"
-hyprland_inactive_border = "rgba(3c5a78aa)"
+hyprland_inactive_border = "rgba(26384caa)"

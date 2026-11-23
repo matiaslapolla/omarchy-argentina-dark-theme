@@ -1,8 +1,6 @@
-# Argentina — Omarchy theme
+# Argentina Dark — Omarchy theme
 
-A dark Omarchy theme inspired by Argentina — its flag, skies, and urban light: deep navy surfaces, celeste accents, and warm gold.
-
-![preview](preview.png)
+A darker fork of [omarchy-argentina](https://github.com/santiagoei/omarchy-argentina): near-black surfaces with a navy tint, and the same celeste accents and warm gold.
 
 ## Install
 
@@ -16,7 +14,7 @@ omarchy theme set argentina
 | Token | Color | Inspiration |
 |---|---|---|
 | accent | `#75aadb` | Celeste |
-| background | `#0c1c30` | Noche argentina (navy) |
+| background | `#080c12` | Noche cerrada (near-black navy) |
 | foreground | `#eaf1f8` | Blanco |
 | yellow | `#f6b40e` | Oro cálido |
 | green | `#63c7a3` | Pampa verde |
