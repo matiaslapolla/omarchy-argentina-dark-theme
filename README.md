@@ -1,12 +1,12 @@
 # Argentina Dark — Omarchy theme
 
-A darker fork of [omarchy-argentina](https://github.com/santiagoei/omarchy-argentina): near-black surfaces with a navy tint, and the same celeste accents and warm gold.
+A darker fork of [omarchy-argentina](https://github.com/santiagoei/omarchy-argentina): near-black surfaces with a navy tint, and the same celeste accents and warm gold. The top bar is translucent (55%) with light text, so it reads over the bright skies of the photos.
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/santiagoei/omarchy-argentina.git
-omarchy theme set argentina
+omarchy theme install https://github.com/matiaslapolla/omarchy-argentina-dark-theme.git
+omarchy theme set argentina-dark
 ```
 
 ## Palette
